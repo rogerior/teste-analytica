@@ -31,3 +31,4 @@ restaurante, fazer estimativa de vendas futuras.
 4. Visualização de informações relevantes
 5. Avaliar desempenho das técnicas de Machine Learning
 6. Aplicar técnica com melhor desempenho
+7. Regras de associação: Apriori
